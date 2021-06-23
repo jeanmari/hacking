@@ -20,7 +20,7 @@ target ip: 10.10.225.185
     ![Nmap Scan](./images/gobuster%20scan.PNG)
     
 4. Go to /panel and you'll see file uploads page. This would be our vector to upload a file for remote code execution and get a reverse shell.
-    ![Nmap Scan](./images/panel%20page.PNG)
+    ![Nmap Scan](./images/home%20panel%20page.PNG)
     - Download the reverse shell code from this link https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php and edit the file with your listening port and IP
     - Upload the file and let's see how it would behave. It looks like it won't accept the typical .php extension based from the message.
         ![Nmap Scan](./images/denied%20upload.PNG)
