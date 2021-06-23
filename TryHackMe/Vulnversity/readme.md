@@ -1,5 +1,6 @@
 # Vulnversity
 target ip: 10.10.165.42
+
 my machine ip: 10.9.234.242
 
 #### Reconnaissance
