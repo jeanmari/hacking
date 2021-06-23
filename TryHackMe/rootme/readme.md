@@ -1,4 +1,4 @@
-# Rootme
+# Rootme CTF Challenge
 my machine ip: 10.9.234.242
 
 target ip: 10.10.225.185
