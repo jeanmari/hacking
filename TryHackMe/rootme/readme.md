@@ -8,7 +8,7 @@ target ip: 10.10.225.185
         - How many ports are open?
         - What version is Apache running?
         - What service is running on port 22
-    ![Nmap Scan](./images/nmap\ scan.png)
+    ![Nmap Scan](./images/nmap scan.PNG)
 2. Since we know port 80 is open, we should take a look at their website.
     <home page image>
     - It's best practice to view the page source of the website for possible vectors for exploitation, however in this case, there are no interesting code to look into.
