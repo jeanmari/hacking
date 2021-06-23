@@ -31,6 +31,7 @@ target ip: 10.10.225.185
         ![Nmap Scan](./images/burpsuite%20success%20upload.PNG)
     
 5. in your terminal, run the command `nc -lvnp <port from reverse shell file>`
+    
     ![Nmap Scan](./images/netcat%20comman.PNG)
     - go to /uploads and click on the phtml extension. Congrats! We got a shell.
         ![Nmap Scan](./images/uploads%20dir.PNG)
