@@ -5,7 +5,7 @@ target ip: 10.10.40.177
 #### procedure
 
 1. Perform nmap scan `nmap -sC -sV 10.10.40.177`
-    ![init nmap scan](./images/nmap_intial.png)
+    ![init nmap scan](./images/nmap_initial.png)
     - since we now port 80 is open we can explore the website. There will be a hint within the source code of the the home page. Let's remember the username `R1ckRul3s`
 
 2. Perform gobuster scan to enumarate the website `gobuster dir -w <path to wordlist> -u http://10.10.40.177:80 -x php,txt,py,sh,cgi,bak,css,js`
