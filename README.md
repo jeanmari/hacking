@@ -1,7 +1,7 @@
 # Ethical Hacking
 Everything about ethical hacking. From CTF challenges writeups and automated pentesting tools using python or any other programming languages. :) This is a work in-progress!
 
-[TryHackMe](https://tryhackme.com) CTF challenges Room:
+[TryHackMe](https://tryhackme.com) CTF challenge rooms:
 - [Basic Pentesting](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/BasicPentesting)
 - [VulnVersity](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/Vulnversity)
 - [LFI](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/lfi)
