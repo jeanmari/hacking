@@ -54,18 +54,22 @@ We would need to crack 8702.zip file to get the .txt contents. Unfortunately thi
 ./john -wordlist=rockyou.txt crackme.hashes
 ```
 Then you'll get the password
+
 ![extract zip](images/extract-zip.png)
 
 we have extracted the contents of the text file. unfortunately it is still unclear regarding the message. This is not a password to anything.
+
 ![extract jpg](images/agent-c2.png)
 
 Let's try to bruteforce the passphrase from the .jpg file. I have found this wonderful tool called [Stegseek](https://github.com/RickdeJager/stegseek) which will run through the rockyou.txt file in just 2 seconds. 
+
 ![crack passphrase](images/crack-passphrase.png)
 
 Now we have another .txt file which I believe is the ssh access for the user `james`
 ![james](images/james.png)
 
 We can see the user flag once logged in
+
 ![logged](images/logged.png)
 
 Now we need to find a priv escalation vector. Run the command `sudo -l` as james in the target machine.
