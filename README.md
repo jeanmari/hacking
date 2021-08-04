@@ -9,5 +9,6 @@ Everything about ethical hacking. From CTF challenges writeups and automated pen
 - [Pickle Rick](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/pickle_rick)
 - [Rootme](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/rootme)
 - [Agent Sudo](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/agent%20sudo)
+- [Avengers Blog](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/avengers%20blog)
 
 ![Ethical Hacker](./ethical-hackers-header.jpg "Ethical Hacker")
