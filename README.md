@@ -1,6 +1,9 @@
 # Ethical Hacking
 Everything about ethical hacking. From CTF challenges writeups and automated pentesting tools using python or any other programming languages. :) This is a work in-progress!
 
+Sample python hacking scripts:
+- [Simple website directory enumeration](https://github.com/jeanmari/hacking-blogs/tree/main/python-scripts/web-directory-enum)
+
 [TryHackMe](https://tryhackme.com) CTF challenge rooms:
 - [Basic Pentesting](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/BasicPentesting)
 - [VulnVersity](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/Vulnversity)
