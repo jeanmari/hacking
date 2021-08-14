@@ -13,5 +13,6 @@ Sample python hacking scripts:
 - [Rootme](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/rootme)
 - [Agent Sudo](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/agent%20sudo)
 - [Avengers Blog](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/avengers%20blog)
+- [Madness](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/madness)
 
 ![Ethical Hacker](./ethical-hackers-header.jpg "Ethical Hacker")
