@@ -14,5 +14,6 @@ Sample python hacking scripts:
 - [Agent Sudo](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/agent%20sudo)
 - [Avengers Blog](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/avengers%20blog)
 - [Madness](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/madness)
+- [Skynet](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/skynet)
 
 ![Ethical Hacker](./ethical-hackers-header.jpg "Ethical Hacker")
