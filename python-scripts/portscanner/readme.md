@@ -3,4 +3,4 @@
 ### instructions
 1. install python3
 2. change the ip addr and port # range in the file
-3. Enjoy!
+3. Then just run it `python3 ./portscan.py`
