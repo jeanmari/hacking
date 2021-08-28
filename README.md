@@ -3,6 +3,7 @@ Everything about ethical hacking. From CTF challenges writeups and automated pen
 
 Sample python hacking scripts:
 - [Simple website directory enumeration](https://github.com/jeanmari/hacking-blogs/tree/main/python-scripts/web-directory-enum)
+- [Python port scanner](https://github.com/jeanmari/hacking-blogs/tree/main/python-scripts/portscanner)
 
 [TryHackMe](https://tryhackme.com) CTF challenge rooms:
 - [Basic Pentesting](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/BasicPentesting)
