@@ -16,5 +16,7 @@ Sample python hacking scripts:
 - [Avengers Blog](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/avengers%20blog)
 - [Madness](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/madness)
 - [Skynet](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/skynet)
+- [bolt](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/bolt)
+- [Bounty Hacker](https://github.com/jeanmari/hacking-blogs/tree/main/TryHackMe/bounty-hacker)
 
 ![Ethical Hacker](./ethical-hackers-header.jpg "Ethical Hacker")
